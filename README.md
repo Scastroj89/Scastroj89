@@ -1,4 +1,4 @@
-# Hola mundo, soy Sebastián Castro 👋
+# Hola mundo, soy Sebastián 👋
 ### Estudiante de desarrollo especializándome en Data Science
 
 ![programación](https://user-images.githubusercontent.com/89229923/130166460-00a980cc-77ed-4b2f-b187-4624c68d6896.jpg)
